@@ -4,7 +4,7 @@
 - 🌱 I am currently learning Appium
 - 📫 How to reach me: https://www.linkedin.com/in/mehmetualatas/
 <hr/>
-I have been involved in UI and Backend automation development for functional tests; smoke test, regression and End to End test. 
+I have been involved in UI and Backend automation development for functional tests; smoke test, regression and End to End test. <br/>
 I like collaboration and communication to produce quality products as a team. 
 <hr/> 
 
