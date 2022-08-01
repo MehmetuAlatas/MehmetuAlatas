@@ -50,7 +50,12 @@ I like collaboration and communication to produce quality products as a team.
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetuAlatas&layout=compact)
 
 ![Profile views](https://gpvc.arturio.dev/MehmetuAlatas)
+
+
 <hr/>
+
 ### ✍️Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <hr/>
+
