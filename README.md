@@ -1,26 +1,10 @@
-<!--
-**MehmetuAlatas/MehmetuAlatas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
 ## 💫About Me :
 ### Hi there 👋, my name is mehmet
-
 - 👀 I am Test automation engineer on web based application.
 - 🌱 I am currently learning Appium
 - 👯 I want to collaborate on automation test project
 - 📫 How to reach me: https://www.linkedin.com/in/mehmetualatas/
-
 <hr/>
 I have been involved in UI and Backend automation development for functional tests; smoke test, regression and End to End test. 
 I like collaboration and communication to produce quality products as a team. 
