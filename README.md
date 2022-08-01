@@ -1,6 +1,6 @@
 ## 💫About Me :
 ### Hi there 👋, my name is mehmet
-- 👀 I am Test automation engineer on web based application.
+- 👀 I am Test Automation Engineer on web based application.
 - 🌱 I am currently learning Appium
 - 👯 I want to collaborate on automation test project
 - 📫 How to reach me: https://www.linkedin.com/in/mehmetualatas/
