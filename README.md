@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💫About Me :
-
 ### Hi there 👋, my name is mehmet
 
 - 👀 I am Test automation engineer on web based application.
@@ -23,13 +22,10 @@ Here are some ideas to get you started:
 - 👯 I want to collaborate on automation test project
 - 📫 How to reach me: https://www.linkedin.com/in/mehmetualatas/
 
+<hr/>
 I have been involved in UI and Backend automation development for functional tests; smoke test, regression and End to End test. 
 I like collaboration and communication to produce quality products as a team. 
-<hr/>
-## 🌐Socials
-<img  width="40"  src="https://www.linkedin.com/in/mehmetualatas/"  align="left" >
 <hr/> 
-
 
 ## 💻Tech Stack
 
@@ -50,7 +46,6 @@ I like collaboration and communication to produce quality products as a team.
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetuAlatas&layout=compact)
 
 ![Profile views](https://gpvc.arturio.dev/MehmetuAlatas)
-
 
 <hr/>
 
