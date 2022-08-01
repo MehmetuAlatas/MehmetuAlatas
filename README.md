@@ -2,7 +2,6 @@
 ### Hi there 👋, my name is mehmet
 - 👀 I am Test Automation Engineer on web based application.
 - 🌱 I am currently learning Appium
-- 👯 I want to collaborate on automation test project
 - 📫 How to reach me: https://www.linkedin.com/in/mehmetualatas/
 <hr/>
 I have been involved in UI and Backend automation development for functional tests; smoke test, regression and End to End test. 
