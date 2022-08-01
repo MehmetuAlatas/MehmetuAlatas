@@ -1,4 +1,3 @@
-![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
 ## 💫About Me :
 ### Hi there 👋, my name is mehmet
 - 👀 I am Test automation engineer on web based application.
@@ -9,7 +8,7 @@
 I have been involved in UI and Backend automation development for functional tests; smoke test, regression and End to End test. 
 I like collaboration and communication to produce quality products as a team. 
 <hr/> 
-
+![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
 ## 💻Tech Stack
 
 <p align="left">
