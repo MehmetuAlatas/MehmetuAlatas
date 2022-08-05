@@ -1,6 +1,6 @@
 ## 💫About Me : Hi there 👋
 - 👀 I am Test Automation Engineer on web based application.
-- 🌱 I am currently learning Appium and Jmeter
+- 🌱 I am currently learning Appium and Jmeter.
 ## 📫 How to reach me : [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mehmetualatas/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/MehmetuAlatas)
 - ✍️ I have been involved in UI and Backend automation development for functional tests; smoke test, regression and End to End test. <br/>
 - ✍️ I like collaboration and communication to produce quality products as a team. 
@@ -19,7 +19,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 	</a> 
 <a href="https://www.html5.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="50" height="50"/> </a>
 <a href="https://www.css3.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="50" height="50"/> </a>
-<a href="https://www.jmeter.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/752dabc7ca2275ee7a079fa24433ff2c6307eb4cddc541dfed60749f62772b41/68747470733a2f2f6a6d657465722e6170616368652e6f72672f696d616765732f6c6f676f2e737667" alt="Jmeter" width="90" height="50"/> </a>
+<a href="https://www.jmeter.com" target="_blank" rel="noreferrer"> <img src="https://jmeter.apache.org/images/logo.svg" alt="Jmeter" width="90" height="50"/> </a>
 <a href="https://www.api.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3m3cQd-M2Gq5QXSik9qJSHGDBW3MvBoWFyA&usqp=CAU" alt="sql" width="50" height="50"/> </a>
 
 </p>
