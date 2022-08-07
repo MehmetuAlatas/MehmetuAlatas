@@ -24,7 +24,7 @@
 
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehmetuAlatas&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehmetuAlatas&show_icons=true&count_private=false)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetuAlatas&layout=compact)
 
