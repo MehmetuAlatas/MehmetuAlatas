@@ -2,7 +2,7 @@
 - 👀 I am Test Automation Engineer on web based application.
 - 🌱 I am currently learning Appium and Jmeter.
 ## 📫 How to reach me : [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mehmetualatas/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/MehmetuAlatas)
-- ✍️ I have been involved in UI and Backend automation development for functional tests; smoke test, regression and End to End test. <br/>
+- ✍️ I have been involved in UI and Backend automation development for functional tests; smoke, regression and End to End test. <br/>
 - ✍️ I like collaboration and communication to produce quality products as a team. 
 
 ![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
