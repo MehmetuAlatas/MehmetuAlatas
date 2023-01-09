@@ -12,7 +12,7 @@
 - ✍️ I have been involved in UI and Backend automation development for functional tests; smoke, regression and End to End test. <br/>
 - ✍️ I like collaboration and communication to produce quality products as a team. 
 
-![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
+<!--![snake gif]()-->
 
 ## 💻Tech Stack
 
