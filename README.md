@@ -13,6 +13,7 @@
 - ✍️ I like collaboration and communication to produce quality products as a team. 
 
 <!--![snake gif]()-->
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Rotating_earth_animated_transparent.gif" alt="Açıklama yazısı" width="150" height="150" id="uniqueImageId">
 
 ## 💻Tech Stack
 
