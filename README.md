@@ -17,9 +17,6 @@
 -->
 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="600" height="200"/>
-</div>
 
 ## 📫 How to reach me : [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mehmetualatas/) <!--[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/MehmetuAlatas)-->
 - ✍️ I have been involved in UI and Backend automation development for functional tests; smoke, regression and End to End test. <br/>
@@ -34,7 +31,12 @@
   * ✅Manual Testing
   * ✅ISTQB course
   * ✅Apex
-    
+ 
+  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="600" height="200"/>
+</div>
+
 ## 💻Tech Stack
 
 <p align="left">
