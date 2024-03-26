@@ -62,7 +62,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetuAlatas&layout=compact)
 
-![Profile views](https://gpvc.arturio.dev/MehmetuAlatas)
+<!--![Profile views](https://gpvc.arturio.dev/MehmetuAlatas)-->
 
 
 ### ✍️Random Dev Quote
