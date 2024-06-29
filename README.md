@@ -26,6 +26,7 @@
   * ✅Java
   * ✅Selenium
   * ✅Database Testing (JDBC)
+  * ✅API Testing 
   * ✅Software Development Life Cycle (SDLC)
   * ✅Software Testing Life Cycle (STLC)
   * ✅Manual Testing
