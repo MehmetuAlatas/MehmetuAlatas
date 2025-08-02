@@ -8,7 +8,7 @@
 # 👋 Hi, I'm Mehmet Alatas! <img align="right" alt="AI Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mehmet-alatas&label=Profile%20views&color=0e75b6&style=flat" alt="mehmet-alatas" />
+  <img src="https://komarev.com/ghpvc/?username=MehmetuAlatas&label=Profile%20views&color=0e75b6&style=flat" alt="MehmetuAlatas" />
 </p>
 
 ### 🚀 About Me
@@ -36,8 +36,8 @@ My expertise lies in creating efficient and scalable test frameworks using vario
 <!-- Stats generales -->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=mehmet-alatas&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet-alatas&layout=compact&theme=dracula&hide_border=true&langs_count=10" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MehmetuAlatas&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetuAlatas&layout=compact&theme=dracula&hide_border=true&langs_count=10" height="180" />
   </a>
 </div>
 
@@ -101,13 +101,6 @@ If you'd like to chat about testing, tech, or collaborate:
 
 
 </p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehmetuAlatas&show_icons=true&count_private=true)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetuAlatas&layout=compact)
-
-<!--![Profile views](https://gpvc.arturio.dev/MehmetuAlatas)-->
-
 
 ### ✍️Random Dev Quote
 
