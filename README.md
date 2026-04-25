@@ -1,10 +1,13 @@
 <div id="top"></div>
-<div align="center"><img width="100%" alt="Welcome To My Profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
-
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=250&section=header&text=Welcome%20To%20My%20Profile!&fontSize=55&fontColor=000000&animation=twinkling&fontAlignY=45&desc=✨%20Test%20Automation%20Engineer%20%7C%20QA%20Specialist%20✨&descAlignY=72&descSize=22&descColor=1a0030&stroke=000000&strokeWidth=1" />
+</div>
+<div align="center">
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=500&color=7E3ACE&center=true&vCenter=true&random=false&width=800&height=45&lines=Test+Automation+Engineer;Selenium+%7C+Playwright+%7C+Cypress;API+Testing+%7C+Postman+%7C+Swagger;BDD+%7C+POM+%7C+CI%2FCD;AWS+EC2+%7C+Docker+%7C+Jenkins;Mobile+Testing+with+Appium;AI+in+Testing+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=2500&pause=400&color=7E3ACE&center=true&vCenter=true&random=false&width=1000&height=90&lines=👋+Hi%2C+I'm+Mehmet+Alatas!;Test+Automation+Engineer;Selenium+%7C+Playwright+%7C+Cypress;API+Testing+%7C+Postman+%7C+Swagger;BDD+%7C+POM+%7C+CI%2FCD;AWS+EC2+%7C+Docker+%7C+Jenkins;Mobile+Testing+with+Appium;AI+in+Testing+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
+</div>
 </div>
 # 👋 Hi, I'm Mehmet Alatas!
 
