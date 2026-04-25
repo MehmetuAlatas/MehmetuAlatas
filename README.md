@@ -1,6 +1,6 @@
 <div id="top"></div>
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=250&section=header&text=Welcome%20To%20My%20Profile!&fontSize=55&fontColor=000000&animation=twinkling&fontAlignY=45&desc=✨%20Test%20Automation%20Engineer%20%7C%20QA%20Specialist%20✨&descAlignY=72&descSize=22&descColor=1a0030&stroke=000000&strokeWidth=1" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=250&section=header&text=Welcome%20To%20My%20Profile!&fontSize=55&fontColor=000000&animation=twinkling&fontAlignY=45&desc=%20Test%20Automation%20Engineer%20%7C%20QA%20Specialist%20&descAlignY=72&descSize=22&descColor=1a0030&stroke=000000&strokeWidth=1" />
 </div>
 <div align="center">
 <div align="center">
